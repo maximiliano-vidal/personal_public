@@ -1,0 +1,54 @@
+[
+  {
+    "tabla": "Persona",
+    "columnas": [
+      {
+        "nombre": "id",
+        "tipo": "int",
+        "clavePrimaria": true
+      },
+      {
+        "nombre": "nombre",
+        "tipo": "varchar(50)"
+      },
+      {
+        "nombre": "apellido",
+        "tipo": "varchar(50)"
+      },
+      {
+        "nombre": "edad",
+        "tipo": "int"
+      },
+      {
+        "nombre": "direccion",
+        "tipo": "varchar(100)"
+      }
+    ]
+  },
+  {
+    "tabla": "Producto",
+    "columnas": [
+      {
+        "nombre": "id",
+        "tipo": "int",
+        "clavePrimaria": true
+      },
+      {
+        "nombre": "nombre",
+        "tipo": "varchar(50)"
+      },
+      {
+        "nombre": "descripcion",
+        "tipo": "varchar(200)"
+      },
+      {
+        "nombre": "precio",
+        "tipo": "decimal(10, 2)"
+      },
+      {
+        "nombre": "stock",
+        "tipo": "int"
+      }
+    ]
+  }
+]
