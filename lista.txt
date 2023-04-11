@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/maximiliano-vidal/personal_public/main/CommonRepository.java
+https://raw.githubusercontent.com/maximiliano-vidal/personal_public/main/DefinicionModelo.yaml
