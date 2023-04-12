@@ -1,0 +1,14 @@
+- Usar nombres en inglés.
+- Usar Java 17.
+- Usar SpringBoot 2.7.2.
+- Usar Spring Data JPA.
+- Usar librería Lombok para constructores, getters y setters.
+- Usar libreria Jakarta Validation API.
+- Usar libreria Mapstruct para los mappers.
+- Usar anotaciones.
+- En un repository extender de la interfaz CommonRepository definida en lugar de JpaRepository.
+- En un contralador, usar la clase PagedResult para retornar el resultado de la búsqueda de una entidad.
+- En un contralador, usar Dto para los endpoints.
+- En todas las clases generadas, incluir los imports.
+- En una clase de  una entidad de negocio, incluir restricciones.
+- En un Dto de una entidad de negocio, incluir restricciones.
